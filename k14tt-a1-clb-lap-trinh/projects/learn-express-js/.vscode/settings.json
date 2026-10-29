@@ -1,0 +1,19 @@
+{
+    "editor.wordWrapColumn": 100,
+    "editor.wordWrap": "bounded",
+    "js/ts.preferences.useAliasesForRenames": false,
+    "search.exclude": {
+        "node_modules": true
+    },
+    "editor.codeActionsOnSave": {
+        "source.addMissingImports.ts": "explicit",
+        "source.organizeImports": "explicit",
+        "source.fixAll.ts": "explicit"
+    },
+    "[typescript]": {
+        "editor.formatOnSave": true
+    },
+    "[html]": {
+        "editor.formatOnSave": true
+    }
+}
